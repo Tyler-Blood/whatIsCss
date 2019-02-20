@@ -1,0 +1,23 @@
+Question for the learning objective "understand what a Cascading Style Sheets is"
+
+What format is an external style sheet?
+
+  .html
+		The files that take advantage of external style sheets are .html. .html stands for Hypertext Markup Language
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+  !-.css
+		Correct! When styles are done in an external style sheet the extension for those files will be .css.
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+  .txt
+		If the external style sheet ends in .txt the file will not be seen as an external style sheet and will have no effect on the html.
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+  .js
+	  .js is the file extension used for JavaScript files, not style sheets. JavaScript is the programming language of the browser and will not be seen as a style sheet.
+	  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
+
+
+Question for the learning objective "understand the syntax used for Cascading Styles Sheets"
+
+In CSS, each declaration is followed by a semicolon and contains one _________ and one ___________, which are separated by a colon.
+property, value
+https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax
